@@ -1,6 +1,6 @@
 # Task 0
 
-Name: Esh
+Name: Esh Gupta
 
 My submission for Task 0. It covers the basic Python questions (Q1 to Q3) and then the small data pipeline with NumPy, Pandas and Matplotlib (Q4 to Q6).
 
